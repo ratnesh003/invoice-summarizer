@@ -1,0 +1,18 @@
+ORD001|John Smith|Laptop|2|999.99|2024-03-15
+ORD002|Jane Doe|Monitor|1|199.50|2024-03-16
+ORD003|Bob Johnson|Keyboard|5|49.99|2024-03-16
+ORD004|John Smith|Mouse|2|25.00|2024-03-17
+ORD005|Alice Brown|Desk|1|150.00|2024-03-18
+ORD006|Jane Doe|Chair|4|85.00|2024-03-18
+ORD007|Bob Johnson|Cables|10|5.99|2024-03-19
+ORD008|Alice Brown|Lamp|2|45.50|2024-03-20
+ORD009|Charlie Davis|Headset|1|120.00|2024-03-20
+ORD010|John Smith|Dock|1|200.00|2024-03-21
+ORD011|Invalid User|Widget|-5|10.00|2024-03-22
+ORD012|Invalid Price|Gadget|1|-50.00|2024-03-22
+ORD013|Mal Formatted Line|Missing|Fields
+ORD014|Jane Doe|Webcam|2|75.00|2024-03-23
+ORD015|Bob Johnson|Mic|1|110.00|2024-03-24
+ORD016|Charlie Davis|Speaker|2|150.00|2024-03-25
+ORD017|Alice Brown|Stand|1|30.00|2024-03-25
+ORD018|Super Saver|Bundle|1|600.00|2024-03-26

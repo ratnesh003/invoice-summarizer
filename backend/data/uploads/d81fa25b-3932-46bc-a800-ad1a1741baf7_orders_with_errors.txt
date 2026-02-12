@@ -1,0 +1,10 @@
+ORD016|Test Customer|Valid Product|5|100.00|2024-03-23
+ORD017|Test Customer|Invalid Quantity|-1|50.00|2024-03-23
+ORD018|Test Customer|Missing Field|3|75.00
+ORD019||Empty Customer Name|2|25.00|2024-03-24
+ORD020|Test Customer||1|30.00|2024-03-24
+ORD021|Test Customer|Invalid Date|1|40.00|23-03-2024
+ORD022|Test Customer|Invalid Price|2|abc|2024-03-25
+ORD023|Test Customer|Negative Price|1|-50.00|2024-03-25
+ORD024|Test Customer|Zero Quantity|0|100.00|2024-03-26
+ORD025|Test Customer|Valid Order with Discount|1|600.00|2024-03-26
