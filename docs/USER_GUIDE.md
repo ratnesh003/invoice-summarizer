@@ -37,18 +37,18 @@ You should see the **Order Processing System** interface.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  Order Processing System                        [History] ▼  │
+│  Order Processing System                        [History] ▼ │
 ├─────────────────────────────────────────────────────────────┤
-│                                                              │
+│                                                             │
 │  Upload New Files                                           │
 │  ┌────────────────────────────────┐                         │
-│  │ Choose files               [Browse]  │                   │
+│  │ Choose files         [Browse]  │                         │
 │  └────────────────────────────────┘                         │
-│                                                              │
+│                                                             │
 │  Selected: orders.txt                                       │
-│                                                              │
+│                                                             │
 │  [Process Files]                                            │
-│                                                              │
+│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -143,22 +143,22 @@ Selected Files:
 After processing, you'll see:
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  [← Back to Upload]    Submission: 2024-03-15 14:30         │
-├─────────────────────────────────────────────────────────────┤
-│  Select File: [orders.txt ▼]                                │
-│                                                              │
-│  View Mode: ⦿ Output Report  ○ Error Log                   │
-│                                                              │
+┌────────────────────────────────────────────────────────────┐
+│  [← Back to Upload]    Submission: 2024-03-15 14:30        │
+├────────────────────────────────────────────────────────────┤
+│  Select File: [orders.txt ▼]                               │
+│                                                            │
+│  View Mode: ⦿ Output Report  ○ Error Log                  │
+│                                                            │
 │  ┌──────────────────────────────────────────────────────┐  │
 │  │  Customer Name   │ Orders │ Items │ Gross │ Net      │  │
-│  │  John Smith      │   3    │   4   │ $2.5K │ $2.3K   │  │
-│  │  Jane Doe        │   2    │   3   │ $450  │ $450    │  │
-│  │  ...                                                  │  │
+│  │  John Smith      │   3    │   4   │ $2.5K │ $2.3K    │  │
+│  │  Jane Doe        │   2    │   3   │ $450  │ $450     │  │
+│  │  ...                                                 │  │
 │  └──────────────────────────────────────────────────────┘  │
-│                                                              │
-│  [Download Output Report]                                   │
-└─────────────────────────────────────────────────────────────┘
+│                                                            │
+│  [Download Output Report]                                  │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ### Switching Between Files
